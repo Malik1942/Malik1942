@@ -38,4 +38,4 @@ Home cooking (Asian flavors, recipes optional), long night drives, and quiet pho
 
 ---
 
-📫 [malikzhang.com](https://www.malikzhang.com) · [LinkedIn](https://www.linkedin.com/in/malik-zhang) · [Medium](https://medium.com/@malikzhang19) · [Instagram](https://www.instagram.com/malikz_visual)
+📫 [malikzhang.com](https://www.malikzhang.com) · [LinkedIn](https://www.linkedin.com/in/malik-zhang) · [Medium](https://medium.com/@malikzhang19) · [X](https://x.com/MalikZ1942)
