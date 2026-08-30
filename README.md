@@ -30,7 +30,7 @@ Agents build with me, so I build for agents. It's a loop, and it compounds.
 
 **[screen-recording](https://github.com/Malik1942/screen-recording)** · Script-driven product capture across the iOS Simulator, websites, and Figma prototypes, with a staging protocol and measured-time auto-zoom. Works with Claude Code, Codex, and Cursor.
 
-**[job-agent](https://github.com/Malik1942/job-agent)** · My job hunt, but as a pipeline: it scans ATS boards, scores roles, tailors cover letters, and applies, with an autonomy dial so it never sends anything I wouldn't.
+**[job-agent](https://github.com/Malik1942/job-agent)** · My job hunt, but as a pipeline: it scans ATS boards, scores roles, tailors cover letters, and applies, with an autonomy dial so I decide how much it does on its own.
 
 ## 🍜 Off screen
 
