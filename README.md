@@ -26,11 +26,13 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 Agents build with me, so I build for agents. It's a loop, and it compounds.
 
+**Malik OS** · The operating system my agents run on, and the reason every app above got shipped instead of half-shipped. A kernel for how I work, skills for the design side (design engineering, PRDs, user research, storytelling, Figma conventions), agents with actual job titles (design reviewer, design engineer pair, user researcher, PM sparring partner), and a memory that means nobody re-explains me every Monday. Runs on its own runtime layer so the chassis can change without the judgment changing. Private, because it knows too much about me.
+
 **[product-film](https://github.com/Malik1942/product-film)** · An agent skill that turns raw screen recordings into scored product films. AVFoundation pipeline, no ffmpeg, no editor, no tears.
 
 **[screen-recording](https://github.com/Malik1942/screen-recording)** · Script-driven product capture across the iOS Simulator, websites, and Figma prototypes, with a staging protocol and measured-time auto-zoom. Works with Claude Code, Codex, and Cursor.
 
-**[job-agent](https://github.com/Malik1942/job-agent)** · My job hunt, but as a pipeline: it scans ATS boards, scores roles, tailors cover letters, and applies, with an autonomy dial so I decide how much it does on its own.
+**[job-agent](https://github.com/Malik1942/job-agent)** · My job hunt, but as a pipeline: it scans ATS boards, scores roles, tailors cover letters, and applies, with an autonomy dial so I decide how much it does on its own. **How I run it now:** OpenClaw drives it from my phone, it scans, ranks, and fills every application in a parked browser, and I do the last step myself: read the form, fix what needs fixing, click submit. The agent never submits. No shell, allowlisted commands, at-most-once execution. Also private, for obvious reasons.
 
 ## 🍜 Off screen
 
