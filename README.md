@@ -8,9 +8,11 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 ## 🎨 Design: the main quest
 
-- **[Portfolio](https://www.malikzhang.com)** · Product design and industrial design case studies, plus a few things you can poke
-- **FigBuild 2026, 1st place** · Won with NeuraLyfe. We take those.
-- Before software I designed physical things: an [emotion-sensing paintbrush](https://www.malikzhang.com/project/moodmuse) that lets autistic children say how they feel without saying anything, an [underwater drone](https://www.malikzhang.com/project/ranger) that recovers abandoned fishing nets without putting a diver in the water, and [robots](https://www.malikzhang.com/project/zeat) that collect trash and clean floors after big events, because someone has to and it doesn't have to be a person
+**[Portfolio](https://www.malikzhang.com)** · Product design and industrial design case studies, plus a few things you can poke.
+
+**FigBuild 2026, 1st place** · Won with NeuraLyfe. We take those.
+
+**Before software** · I designed physical things: an [emotion-sensing paintbrush](https://www.malikzhang.com/project/moodmuse) that lets autistic children say how they feel without saying anything, an [underwater drone](https://www.malikzhang.com/project/ranger) that recovers abandoned fishing nets without putting a diver in the water, and [robots](https://www.malikzhang.com/project/zeat) that collect trash and clean floors after big events, because someone has to and it doesn't have to be a person.
 
 ## 📱 The receipts (apps I've shipped)
 
