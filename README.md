@@ -14,9 +14,9 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 ## 📱 The receipts (apps I've shipped)
 
-**[Moti: Plan](https://apps.apple.com/us/app/moti-plan/id6770705491)** · An AI-native planner: feed it chaos, get back a living, timeline-aware plan. Designed and shipped solo in two weeks, with Claude and Codex on the build; SLM + LLM under the hood. → [Case study](https://www.malikzhang.com/project/moti)
+**[Moti: Plan](https://apps.apple.com/us/app/moti-plan/id6770705491)** · An AI-native planner: feed it chaos, get back a living, timeline-aware plan. Designed and shipped solo in two weeks, with Claude and Codex on the build; SLM + LLM under the hood. → [App Store](https://apps.apple.com/us/app/moti-plan/id6770705491) · [Case study](https://www.malikzhang.com/project/moti)
 
-**[Oryne](https://apps.apple.com/us/app/oryne/id6778995892)** · Catch a thought by voice or text before it ghosts you. On-device intelligence titles your Whispers and drifts related ones together into currents, and everything syncs through your own private iCloud. Privacy is the default, not a setting. Your 3am thoughts stay yours.
+**[Oryne](https://apps.apple.com/us/app/oryne/id6778995892)** · Catch a thought by voice or text before it ghosts you. On-device intelligence titles your Whispers and drifts related ones together into currents, and everything syncs through your own private iCloud. Privacy is the default, not a setting. Your 3am thoughts stay yours. → [App Store](https://apps.apple.com/us/app/oryne/id6778995892) · [Case study](https://www.malikzhang.com/project/oryne)
 
 **[Inkwork](https://www.malikzhang.com/inkwork)** · A styled-QR studio with a point of view. Designed, built, and shipped solo. Go press the cube. It's satisfying.
 
