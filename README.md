@@ -22,7 +22,7 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 **[Inkwork](https://www.malikzhang.com/inkwork)** · A styled-QR studio with a point of view. Designed, built, and shipped solo. Go press the cube. It's satisfying.
 
-**[CalmMouse](https://calmmouse.vercel.app)** · Magic Mouse UX fixes for macOS, born from pure daily rage: the page should not scroll every time you click. Free, open source, installable via [Homebrew](https://github.com/Malik1942/homebrew-tap). → [Repo](https://github.com/Malik1942/CalmMouse)
+**[CalmMouse](https://calmmouse.malikzhang.com)** · Magic Mouse UX fixes for macOS, born from pure daily rage: the page should not scroll every time you click. Free, open source, installable via [Homebrew](https://github.com/Malik1942/homebrew-calmmouse). → [Repo](https://github.com/Malik1942/CalmMouse)
 
 ## 🤖 The AI workflow
 
