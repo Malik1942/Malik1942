@@ -16,6 +16,8 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 ## 📱 The receipts (apps I've shipped)
 
+**[Locant](https://locant.malikzhang.com)** · A free Mac app for people who build software with AI coding assistants like Claude Code, Cursor, or Codex. Normally, when a button or screen looks wrong, you describe it in words or paste a screenshot and hope the assistant guesses the right part of the code. With Locant you press a hotkey, click the thing you mean, type what should change, and the assistant receives that exact element along with the name it has in the code. It fixes the right thing on the first try. Open source, nothing leaves your machine. → [Repo](https://github.com/Malik1942/locant) · [Download](https://github.com/Malik1942/locant/releases/latest/download/Locant.dmg)
+
 **[Moti: Plan](https://apps.apple.com/us/app/moti-plan/id6770705491)** · An AI-native planner: feed it chaos, get back a living, timeline-aware plan. Designed and shipped solo in two weeks, with Claude and Codex on the build; SLM + LLM under the hood. → [App Store](https://apps.apple.com/us/app/moti-plan/id6770705491) · [Case study](https://www.malikzhang.com/project/moti)
 
 **[Oryne](https://apps.apple.com/us/app/oryne/id6778995892)** · Catch a thought by voice or text before it ghosts you. On-device intelligence titles your Whispers and drifts related ones together into currents, and everything syncs through your own private iCloud. Privacy is the default, not a setting. Your 3am thoughts stay yours. → [App Store](https://apps.apple.com/us/app/oryne/id6778995892) · [Case study](https://www.malikzhang.com/project/oryne)
@@ -27,8 +29,6 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 ## 🤖 The AI workflow
 
 Agents build with me, so I build for agents. It's a loop, and it compounds.
-
-**[Locant](https://locant.malikzhang.com)** · Point, don't describe. A menu bar app for macOS: press a hotkey, click one element in any Mac app, type what should change, press Enter. Your coding agent gets the element's role, accessibility identifier, frame, and ancestry plus a cropped PNG, not a screenshot to squint at, so it greps for the right file on the first try. Ships its own MCP server for Claude Code, Cursor, and Codex. Free, open source, signed and notarized. → [Repo](https://github.com/Malik1942/locant) · [Download](https://github.com/Malik1942/locant/releases/latest/download/Locant.dmg)
 
 **Malik OS** · The operating system my agents run on, and the reason every app above got shipped instead of half-shipped. A kernel for how I work, skills for the design side (design engineering, PRDs, user research, storytelling, Figma conventions), agents with actual job titles (design reviewer, design engineer pair, user researcher, PM sparring partner), and a memory that means nobody re-explains me every Monday. Runs on its own runtime layer so the chassis can change without the judgment changing. Private, because it knows too much about me.
 
