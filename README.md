@@ -28,6 +28,8 @@ Design side: **[malikzhang.com](https://www.malikzhang.com)**. Builder side: you
 
 Agents build with me, so I build for agents. It's a loop, and it compounds.
 
+**[Locant](https://locant.malikzhang.com)** · Point, don't describe. A menu bar app for macOS: press a hotkey, click one element in any Mac app, type what should change, press Enter. Your coding agent gets the element's role, accessibility identifier, frame, and ancestry plus a cropped PNG, not a screenshot to squint at, so it greps for the right file on the first try. Ships its own MCP server for Claude Code, Cursor, and Codex. Free, open source, signed and notarized. → [Repo](https://github.com/Malik1942/locant) · [Download](https://github.com/Malik1942/locant/releases/latest/download/Locant.dmg)
+
 **Malik OS** · The operating system my agents run on, and the reason every app above got shipped instead of half-shipped. A kernel for how I work, skills for the design side (design engineering, PRDs, user research, storytelling, Figma conventions), agents with actual job titles (design reviewer, design engineer pair, user researcher, PM sparring partner), and a memory that means nobody re-explains me every Monday. Runs on its own runtime layer so the chassis can change without the judgment changing. Private, because it knows too much about me.
 
 **[product-film](https://github.com/Malik1942/product-film)** · An agent skill that turns raw screen recordings into scored product films. AVFoundation pipeline, no ffmpeg, no editor, no tears.
