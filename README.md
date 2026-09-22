@@ -40,7 +40,7 @@ Agents build with me, so I build for agents. It's a loop, and it compounds.
 
 ## 🍜 Off screen
 
-Home cooking (Asian flavors, recipes optional), long night drives, and quiet photography: stills from travel and everyday light.
+Basketball and bouldering, home cooking (Asian flavors, recipes optional), long night drives, and quiet photography: stills from travel and everyday light.
 
 ---
 
